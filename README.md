@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science**
 
-- 👨‍💻 All of my projects are available at [Annamalai.live](annamalai.netlify.app)
+- 👨‍💻 You can see my portfolio at [Annamalai.me](annamalai.netlify.app)
 
 - 📫 How to reach me **saravananannamalai4871@gmail.com**
 
