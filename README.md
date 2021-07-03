@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/annamalai v r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annamalai v r" height="30" width="40" /></a>
 <a href="https://instagram.com/c_o_o_l._.pixel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c_o_o_l._.pixel" height="30" width="40" /></a>
-<a href="https://medium.com/@saravana annamalai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saravana annamalai" height="30" width="40" /></a>
+<a href="https://saravananannamalai4871.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saravana annamalai" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/deep matrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deep matrix" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/annamalai487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="annamalai487" height="30" width="40" /></a>
 </p>
