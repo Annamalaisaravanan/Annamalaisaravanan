@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Annamalai</h1>
-<h3 align="center">I'm a passionate technologist who has deep interest towards Electronics and Machine Learning. I'm also doing freelancing projects in python.</h3>
+<h3 align="center">I'm a passionate technologist who has deep interest in learning new stuffs.I'm also doing freelancing projects in python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annamalaisaravanan&label=Profile%20views&color=0e75b6&style=flat" alt="annamalaisaravanan" /> </p>
 
-- 🔭 I’m currently doing intern at **Elshio Agritech**
+- 🔭 I’m currently doing intern at **Elshio Agritech**.
 
-- 👯 I’m looking to collaborate on **Data Science**
+- 👯 I’m looking to collaborate on **Data Science**.
 
-- 👨‍💻 You can see my portfolio at [Annamalai.me](https://annamalai.netlify.app)
+- 👨‍💻 Portfolio at [**Annamalai.me**](https://annamalai.netlify.app).
 
-- 📫 How to reach me **saravananannamalai4871@gmail.com**
+- ⚡ You can view my technical content videos [*here*](https://www.youtube.com/channel/UCnVpEcfut-Bu1IFmQr7vRuw).
+
+- 📫 To reach me: **saravananannamalai4871@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
