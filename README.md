@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annamalaisaravanan&label=Profile%20views&color=0e75b6&style=flat" alt="annamalaisaravanan" /> </p>
 
-- 🔭 I’m currently doing intern at **Elshio Agritech**.
-
-- 👯 I’m looking to collaborate on **Data Science**.
+- 👯 I’m looking to collaborate on **Data Science & ReactJS**.
 
 - 👨‍💻 Portfolio at [**Annamalai.me**](https://annamalai.netlify.app).
 
