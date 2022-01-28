@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annamalaisaravanan&label=Profile%20views&color=0e75b6&style=flat" alt="annamalaisaravanan" /> </p>
 
-- 👯 I’m looking to collaborate on **Data Science & Machine Learning**.
+- 👯 I’m looking to collaborate on **Machine Learning & Computer Vision**.
 
 - 👨‍💻 Portfolio at [**Annamalai.me**](https://annamalai.netlify.app).
 
